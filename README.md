@@ -175,6 +175,12 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/BraveGroup/SheetCopilot.svg?style=social&label=Star)](https://github.com/BraveGroup/SheetCopilot)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19308)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sheetcopilot.github.io/)
+  
++ [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719) (Jun., 2024)
+
+  [![Star](https://img.shields.io/github/stars/showlab/GUI-Action-Narrator.svg?style=social&label=Star)](https://github.com/showlab/GUI-Action-Narrator)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13719)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Narrator)
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
