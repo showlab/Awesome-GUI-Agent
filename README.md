@@ -175,6 +175,12 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/BraveGroup/SheetCopilot.svg?style=social&label=Star)](https://github.com/BraveGroup/SheetCopilot)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19308)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sheetcopilot.github.io/)
+
++ [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) (Jan. 2024, ACL 2024)
+
+  [![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star)](https://github.com/njucckevin/SeeClick)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10935)
+
   
 + [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719) (Jun., 2024)
 
