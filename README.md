@@ -19,7 +19,7 @@ A curated list of papers, projects, and resources for multi-modal Graphical User
 
 ## Models / Agents
 + [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
-+ [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning]() (Mar., 2024)  
++ [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning]() (Jun., 2024)  
   [![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)](https://github.com/DigiRL-agent/digirl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11896)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://digirl-agent.github.io/)
