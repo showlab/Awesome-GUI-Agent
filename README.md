@@ -1,5 +1,6 @@
-# Awesome-GUI-Agent
+# Awesome GUI Agent [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 A curated list of papers, projects, and resources for multi-modal Graphical User Interface (GUI) agents.
+
 
 ## Datasets / Benchmarks
 + [AssistGUI: Task-Oriented Desktop Graphical User Interface Automation](https://showlab.github.io/assistgui/) (Dec., 2023)
