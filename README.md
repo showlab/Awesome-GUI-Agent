@@ -217,6 +217,13 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social&label=Star)](https://github.com/apple/ml-ferret)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05719)
 
++ [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186) (Mar. 2024)
+
+  [![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)](https://github.com/BAAI-Agents/Cradle)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.03186)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://baai-agents.github.io/Cradle/)
+
+
 + [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719) (Jun. 2024)
 
   [![Star](https://img.shields.io/github/stars/showlab/GUI-Action-Narrator.svg?style=social&label=Star)](https://github.com/showlab/GUI-Action-Narrator)
