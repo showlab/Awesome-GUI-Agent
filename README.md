@@ -217,6 +217,14 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/apple/ml-ferret.svg?style=social&label=Star)](https://github.com/apple/ml-ferret)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05719)
 
++ [Octopus: On-device language model for function calling of software APIs](https://arxiv.org/abs/2404.01549) (Apr., 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01549)
+
++ [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744) (Apr., 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01744)
+
 + [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186) (Mar. 2024)
 
   [![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)](https://github.com/BAAI-Agents/Cradle)
