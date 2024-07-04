@@ -165,6 +165,13 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.19263)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://screen-point-and-read.github.io/)
 
++ [MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents](https://arxiv.org/abs/2406.08184) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/MobileAgentBench/mobile-agent-bench.svg?style=social&label=Star)](https://github.com/MobileAgentBench/mobile-agent-bench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08184)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mobileagentbench.github.io)
+  
+
 + [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
 
   [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)](https://github.com/camel-ai/crab)
@@ -268,6 +275,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/showlab/GUI-Action-Narrator.svg?style=social&label=Star)](https://github.com/showlab/GUI-Action-Narrator)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13719)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Narrator)
+
++ [Identifying User Goals from UI Trajectories](https://arxiv.org/abs/2406.14314) (Jun. 2024)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14314)
+  
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
