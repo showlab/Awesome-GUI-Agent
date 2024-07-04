@@ -120,6 +120,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.07972)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://os-world.github.io/)
 
++ [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://arxiv.org/abs/2404.09992) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/shulin16/MMInA.svg?style=social&label=Star)](https://github.com/shulin16/MMInA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09992)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mmina.cliangyu.com)
+
 + [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) (Jun. 2024)  
 
   [![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star)](https://github.com/yiye3/GUICourse)
