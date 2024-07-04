@@ -283,6 +283,11 @@ So then you can easily copy and use this information in your pull requests.
 + [Identifying User Goals from UI Trajectories](https://arxiv.org/abs/2406.14314) (Jun. 2024)
   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14314)
+
++ [VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning](https://arxiv.org/abs/2406.14056) (Jun. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14056)
+  
   
 
 ## Projects
