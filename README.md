@@ -120,6 +120,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.07972)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://os-world.github.io/)
 
+
++ [Benchmarking Mobile Device Control Agents across Diverse Configurations](https://arxiv.org/abs/2404.16660) (Apr. 2024, ICLR 2024) 
+
+  [![Star](https://img.shields.io/github/stars/gimme1dollar/b-moca.svg?style=social&label=Star)](https://github.com/gimme1dollar/b-moca) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16660)
+
 + [MMInA: Benchmarking Multihop Multimodal Internet Agents](https://arxiv.org/abs/2404.09992) (Apr. 2024)
 
   [![Star](https://img.shields.io/github/stars/shulin16/MMInA.svg?style=social&label=Star)](https://github.com/shulin16/MMInA)
@@ -163,6 +169,7 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)](https://github.com/camel-ai/crab)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01511)
+
 
 ## Models / Agents
 + [A Data-Driven Approach for Learning to Control Computers](https://arxiv.org/abs/2202.08137) (Feb. 2022)
