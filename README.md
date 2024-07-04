@@ -270,6 +270,7 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Narrator)
 
 + [Identifying User Goals from UI Trajectories](https://arxiv.org/abs/2406.14314) (Jun. 2024)
+  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.13719)
   
 
