@@ -125,6 +125,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/shulin16/MMInA.svg?style=social&label=Star)](https://github.com/shulin16/MMInA)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09992)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mmina.cliangyu.com)
+  
++ [Autonomous Evaluation and Refinement of Digital Agents](https://arxiv.org/abs/2404.06474) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star)](https://github.com/Berkeley-NLP/Agent-Eval-Refine)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06474)
 
 + [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) (Jun. 2024)  
 
@@ -160,6 +165,10 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01511)
 
 ## Models / Agents
++ [A Data-Driven Approach for Learning to Control Computers](https://arxiv.org/abs/2202.08137) (Feb. 2022)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.08137)
+
 + [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (Dec. 2023, CVPR 2024)
 
   [![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM)
@@ -230,6 +239,11 @@ So then you can easily copy and use this information in your pull requests.
 + [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744) (Apr., 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01744)
+
++ [AutoWebGLM: Bootstrap and Reinforce a Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star)](https://github.com/THUDM/AutoWebGLM)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
 
 + [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186) (Mar. 2024)
 
