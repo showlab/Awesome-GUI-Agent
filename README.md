@@ -149,6 +149,10 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social&label=Star)](https://github.com/LlamaTouch/LlamaTouch)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16054)
 
++ [VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?](https://arxiv.org/abs/2404.05955) (Apr. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05955)
+
 + [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) (Jun. 2024)  
 
   [![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star)](https://github.com/yiye3/GUICourse)
@@ -223,6 +227,14 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/microsoft/UFO.svg?style=social&label=Star)](https://github.com/microsoft/UFO)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07939)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/UFO/)
+
++ [Comprehensive Cognitive LLM Agent for Smartphone GUI Automation](https://arxiv.org/abs/2402.11941) (Feb. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.11941)
+
++ [Improving Language Understanding from Screenshots](https://arxiv.org/abs/2402.14073) (Feb. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14073)
 
 + [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://arxiv.org/abs/2305.19308) (May. 2023, NeurIPS 2023)
 
