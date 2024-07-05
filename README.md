@@ -271,6 +271,13 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star)](https://github.com/njucckevin/SeeClick)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10935)
 
++ [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614) (Jan. 2024, ICML 2024)
+
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/SeeAct)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.01614)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/SeeAct/)
+
+
 + [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](http://arxiv.org/abs/2401.16158) (Jan. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2401.16158)
