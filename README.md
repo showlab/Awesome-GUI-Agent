@@ -195,9 +195,17 @@ So then you can easily copy and use this information in your pull requests.
 
 
 ## Models / Agents
++ [Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning](https://arxiv.org/abs/2108.03353) (Aug. 2021)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2108.03353)
+
 + [A Data-Driven Approach for Learning to Control Computers](https://arxiv.org/abs/2202.08137) (Feb. 2022)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.08137)
+
++ [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/abs/2307.12856) (Jul. 2023)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2307.12856)
 
 + [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914) (Dec. 2023, CVPR 2024)
 
