@@ -144,6 +144,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine.svg?style=social&label=Star)](https://github.com/Berkeley-NLP/Agent-Eval-Refine)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06474)
 
++ [LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Automation Task Evaluation](https://arxiv.org/abs/2404.16054) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/LlamaTouch/LlamaTouch.svg?style=social&label=Star)](https://github.com/LlamaTouch/LlamaTouch)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.16054)
+
 + [GUICourse: From General Vision Language Models to Versatile GUI Agents](https://arxiv.org/abs/2406.11317) (Jun. 2024)  
 
   [![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star)](https://github.com/yiye3/GUICourse)
