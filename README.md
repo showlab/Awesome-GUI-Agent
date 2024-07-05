@@ -60,6 +60,13 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01206)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://webshop-pnlp.github.io/)
 
++ [Language Models can Solve Computer Tasks](https://arxiv.org/abs/2303.17491) (Mar. 2023)
+
+  [![Star](https://img.shields.io/github/stars/posgnu/rci-agent.svg?style=social&label=Star)](https://github.com/posgnu/rci-agent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17491)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://posgnu.github.io/rci-web/)
+
+
 + [Mobile-Env: An Evaluation Platform and Benchmark for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144) (May. 2023)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08144)
