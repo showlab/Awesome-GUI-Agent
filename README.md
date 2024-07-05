@@ -247,6 +247,10 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/njucckevin/SeeClick.svg?style=social&label=Star)](https://github.com/njucckevin/SeeClick)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.10935)
 
++ [Dual-View Visual Contextualization for Web Navigation](https://arxiv.org/abs/2402.04476) (Feb. 2024, CVPR 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04476)
+
 + [DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning](https://arxiv.org/abs/2406.11896) (Jun. 2024)  
 
   [![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)](https://github.com/DigiRL-agent/digirl)
