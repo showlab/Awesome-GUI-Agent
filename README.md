@@ -306,7 +306,7 @@ So then you can easily copy and use this information in your pull requests.
   
 + [ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model](https://arxiv.org/abs/2402.07945) (Jun. 2024)
 
-  [![Star](https://img.shields.io/github/stars/showlab/ScreenAgent.svg?style=social&label=Star)](https://github.com/niuzaisheng/ScreenAgent)
+  [![Star](https://img.shields.io/github/stars/niuzaisheng/ScreenAgent.svg?style=social&label=Star)](https://github.com/niuzaisheng/ScreenAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07945)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://screenagent.pages.dev/)
   
