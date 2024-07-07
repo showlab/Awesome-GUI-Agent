@@ -349,6 +349,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14056)
   
++ [Octo-planner: On-device Language Model for Planner-Action Agents](https://arxiv.org/abs/2406.18082) (Jun. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.18082)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nexa4ai.com/octo-planner#video)
+
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
