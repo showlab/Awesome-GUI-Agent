@@ -67,9 +67,10 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://posgnu.github.io/rci-web/)
 
 
-+ [Mobile-Env: An Evaluation Platform and Benchmark for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144) (May. 2023)
++ [Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction](https://arxiv.org/abs/2305.08144) (May. 2023)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08144)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=social&logo=github)](https://github.com/X-LANCE/Mobile-Env)
 
 + [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) (Jun. 2023)
 
