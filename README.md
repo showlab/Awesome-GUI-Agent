@@ -97,7 +97,6 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.07781)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/assistgui/)
 
-
 + [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/abs/2401.13649) (Jan. 2024, ACL 2024)
 
   [![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)](https://github.com/jykoh/visualwebarena)
@@ -163,12 +162,12 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/yiye3/GUICourse.svg?style=social&label=Star)](https://github.com/yiye3/GUICourse)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11317)
+  
 + [GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/abs/2406.10819) (Jun. 2024)  
 
   [![Star](https://img.shields.io/github/stars/Dongping-Chen/GUI-World.svg?style=social&label=Star)](https://github.com/Dongping-Chen/GUI-World)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.10819)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-world.github.io/)
-
 
 + [GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices](https://arxiv.org/abs/2406.08451) (Jun. 2024)  
 
@@ -203,10 +202,24 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01014)
 
++ [Practical, Automated Scenario-based Mobile App Testing](https://arxiv.org/abs/2406.08340) (Jun. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08340)
+
++ [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2406.12373) (Jun. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12373)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
+
 + [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
 
   [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)](https://github.com/camel-ai/crab)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.01511)
+
++ [WebVLN: Vision-and-Language Navigation on Websites](https://ojs.aaai.org/index.php/AAAI/article/view/27878) (AAAI 2024)
+  
+  [![Star](https://img.shields.io/github/stars/WebVLN/WebVLN.svg?style=social&label=Star)](https://github.com/WebVLN/WebVLN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27878)
 
 + [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
 
@@ -234,6 +247,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08914)
+
++ [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919)
+
+  [![Star](https://img.shields.io/github/stars/MinorJerry/WebVoyager.svg?style=social&label=Star)](https://github.com/MinorJerry/WebVoyager)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13919)
 
 + [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) (Feb. 2024)
 
