@@ -118,7 +118,7 @@ So then you can easily copy and use this information in your pull requests.
 + [On the Multi-turn Instruction Following for Conversational Web Agents](https://arxiv.org/abs/2402.15057) (Feb. 2024)
 
   [![Star](https://img.shields.io/github/stars/magicgh/self-map.svg?style=social&label=Star)](https://github.com/magicgh/self-map)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15057)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15057)
 
 + [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918) (Mar. 2024)
 
