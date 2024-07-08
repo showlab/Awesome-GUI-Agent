@@ -115,6 +115,11 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.05930)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mcgill-nlp.github.io/weblinx/)
 
++ [On the Multi-turn Instruction Following for Conversational Web Agents](https://arxiv.org/abs/2402.15057) (Feb. 2024)
+
+  [![Star](https://img.shields.io/github/stars/magicgh/self-map.svg?style=social&label=Star)](https://github.com/magicgh/self-map)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15057)\
+
 + [AgentStudio: A Toolkit for Building General Virtual Agents](https://arxiv.org/abs/2403.17918) (Mar. 2024)
 
   [![Star](https://img.shields.io/github/stars/skyworkai/agent-studio.svg?style=social&label=Star)](https://github.com/skyworkai/agent-studio)
@@ -250,6 +255,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14073)
 
++ [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star)](https://github.com/THUDM/AutoWebGLM)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
+
 + [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://arxiv.org/abs/2305.19308) (May. 2023, NeurIPS 2023)
 
   [![Star](https://img.shields.io/github/stars/BraveGroup/SheetCopilot.svg?style=social&label=Star)](https://github.com/BraveGroup/SheetCopilot)
@@ -301,6 +311,10 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/DigiRL-agent/digirl.svg?style=social&label=Star)](https://github.com/DigiRL-agent/digirl)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11896)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://digirl-agent.github.io/)
+
++ [Visual Grounding for User Interfaces](https://aclanthology.org/2024.naacl-industry.9.pdf) (NAACL 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://aclanthology.org/2024.naacl-industry.9.pdf)
 
 + [ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model](https://arxiv.org/abs/2402.07945) (Feb. 2024)
 
