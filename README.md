@@ -235,6 +235,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star)](https://github.com/THUDM/CogVLM)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08914)
 
++ [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919)
+
+  [![Star](https://img.shields.io/github/stars/MinorJerry/WebVoyager.svg?style=social&label=Star)](https://github.com/MinorJerry/WebVoyager)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13919)
+
 + [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) (Feb. 2024)
 
   [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Copilot.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Copilot)
