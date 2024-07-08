@@ -187,7 +187,16 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/MobileAgentBench/mobile-agent-bench.svg?style=social&label=Star)](https://github.com/MobileAgentBench/mobile-agent-bench)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08184)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mobileagentbench.github.io)
+
++ [AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents](https://arxiv.org/abs/2405.14573) (Jun. 2024)
   
+  [![Star](https://img.shields.io/github/stars/google-research/android_world.svg?style=social&label=Star)](https://github.com/google-research/android_world)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14573)
+
++ [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01014)
 
 + [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
 
