@@ -357,6 +357,10 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01744)
 
++ [Octopus v4: Graph of language models](https://arxiv.org/abs/2404.19296) (Apr., 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19296)
+
 + [AutoWebGLM: Bootstrap and Reinforce a Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) (Apr. 2024)
 
   [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star)](https://github.com/THUDM/AutoWebGLM)
