@@ -357,6 +357,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.01744)
 
++ [Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent](https://arxiv.org/abs/2404.11459) (Apr., 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.11459)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nexa4ai.com/octopus-v3)
+
 + [Octopus v4: Graph of language models](https://arxiv.org/abs/2404.19296) (Apr., 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19296)
