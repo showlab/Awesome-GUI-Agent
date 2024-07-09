@@ -95,6 +95,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13854)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://webarena.dev/)
 
++ [Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2311.09278) (Nov. 2023)
+
+  [![Star](https://img.shields.io/github/stars/xufangzhi/ENVISIONS.svg?style=social&label=Star)](https://github.com/xufangzhi/ENVISIONS)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09278)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xufangzhi.github.io/symbol-llm-page/)
+
 + [AssistGUI: Task-Oriented Desktop Graphical User Interface Automation](https://arxiv.org/abs/2401.07781) (Dec. 2023, CVPR 2024)
 
   [![Star](https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star)](https://github.com/showlab/assistgui)
