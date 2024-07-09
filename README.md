@@ -32,6 +32,10 @@ So then you can easily copy and use this information in your pull requests.
 ⭐ If you find this repository useful, please give it a star.
 
 ## Datasets / Benchmarks
++ [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/10.1145/3126594.3126651) (Oct. 2017)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3126594.3126651)
+  
 + [Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018, ICLR 2018)
 
   [![Star](https://img.shields.io/github/stars/stanfordnlp/wge.svg?style=social&label=Star)](https://github.com/stanfordnlp/wge)
@@ -234,6 +238,10 @@ So then you can easily copy and use this information in your pull requests.
 + [A Data-Driven Approach for Learning to Control Computers](https://arxiv.org/abs/2202.08137) (Feb. 2022)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.08137)
+
++ [Augmenting Autotelic Agents with Large Language Models](https://arxiv.org/pdf/2305.12487) (May. 2023)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.12487)
 
 + [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863) (Jun. 2023, ICLR 2024)
 
