@@ -235,6 +235,10 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
 
++ [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2406.12373) (Jun. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12373)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
 
 ## Models / Agents
 + [Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning](https://arxiv.org/abs/2108.03353) (Aug. 2021)
@@ -432,6 +436,10 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03037)
 
++ [Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence](https://arxiv.org/abs/2407.07061) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OpenBMB/IoA.svg?style=social&label=Star)](https://github.com/OpenBMB/IoA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07061)
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
