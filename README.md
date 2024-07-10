@@ -393,6 +393,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/THUDM/AutoWebGLM.svg?style=social&label=Star)](https://github.com/THUDM/AutoWebGLM)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03648)
+  
++ [Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning](https://arxiv.org/abs/2404.10887) (Apr. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10887)
+
 
 + [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272)
 
