@@ -450,6 +450,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/OpenBMB/IoA.svg?style=social&label=Star)](https://github.com/OpenBMB/IoA)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.07061)
 
++ [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913) (Jul. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03913)
+
+
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
 
