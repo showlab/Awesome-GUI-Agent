@@ -428,6 +428,10 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.18082)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.nexa4ai.com/octo-planner#video)
 
++ [E-ANT: A Large-Scale Dataset for Efficient Automatic GUI NavigaTion](https://arxiv.org/abs/2406.14250) (Jun. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.14250)
+
 + [MobileFlow: A Multimodal LLM For Mobile GUI Agent](https://arxiv.org/abs/2407.04346) (Jul. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.04346)
