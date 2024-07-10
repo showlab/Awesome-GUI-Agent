@@ -251,6 +251,7 @@ So then you can easily copy and use this information in your pull requests.
 
 + [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://arxiv.org/abs/2306.07863) (Jun. 2023, ICLR 2024)
 
+  [![Star](https://img.shields.io/github/stars/ltzheng/synapse.svg?style=social&label=Star)](https://github.com/ltzheng/synapse)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.07863)
 
 + [A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis](https://arxiv.org/abs/2307.12856) (Jul. 2023, ICLR 2024)
