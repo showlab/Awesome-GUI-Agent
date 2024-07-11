@@ -242,11 +242,6 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
 
-+ [WebCanvas: Benchmarking Web Agents in Online Environments](https://arxiv.org/abs/2406.12373) (Jun. 2024)
-
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12373)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
-
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
