@@ -32,6 +32,10 @@ So then you can easily copy and use this information in your pull requests.
 ⭐ If you find this repository useful, please give it a star.
 
 ## Datasets / Benchmarks
++ [A Unified Solution for Structured Web Data Extraction](https://dl.acm.org/doi/10.1145/2009916.2010020) (Jul. 2011, SIGIR 2011)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/2009916.2010020)
+
 + [Rico: A Mobile App Dataset for Building Data-Driven Design Applications](https://dl.acm.org/doi/10.1145/3126594.3126651) (Oct. 2017)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3126594.3126651)
@@ -41,11 +45,15 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/stanfordnlp/wge.svg?style=social&label=Star)](https://github.com/stanfordnlp/wge)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.08802)
 
-
 + [Mapping Natural Language Instructions to Mobile UI Action Sequences](https://arxiv.org/abs/2005.03776) (May. 2020, ACL 2020)
 
   [![Star](https://img.shields.io/github/stars/deepneuralmachine/seq2act-tensorflow.svg?style=social&label=Star)](https://github.com/deepneuralmachine/seq2act-tensorflow)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.03776)
+
++ [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://arxiv.org/abs/2101.09465) (Jan. 2021, EMNLP 2021)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.09465)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://x-lance.github.io/WebSRC/)
 
 + [AndroidEnv: A Reinforcement Learning Platform for Android](https://arxiv.org/abs/2105.13231) (May. 2021)
 
@@ -264,6 +272,7 @@ So then you can easily copy and use this information in your pull requests.
 + [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) (Jul. 2022)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01206)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://webshop-pnlp.github.io/)
 
 + [Augmenting Autotelic Agents with Large Language Models](https://arxiv.org/pdf/2305.12487) (May. 2023)
 
