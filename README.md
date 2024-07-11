@@ -61,6 +61,10 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.13231)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/deepmind/android_env)
 
++ [A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility](https://arxiv.org/abs/2202.02312) (Feb. 2022)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.02312)
+
 + [META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI](https://arxiv.org/abs/2205.11029) (May. 2022)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11029)
@@ -490,6 +494,22 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social&label=Star)](https://github.com/wandb/openui)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://openui.fly.dev)
+
++ [ACT-1](https://www.adept.ai/blog/act-1)
+
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.adept.ai/blog/act-1)
+
++ [NatBot](https://github.com/nat/natbot)
+
+  [![Star](https://img.shields.io/github/stars/nat/natbot.svg?style=social&label=Star)](https://github.com/nat/natbot)
+
++ [Multion](https://www.multion.ai)
+
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.multion.ai/)
+
++ [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
+  [![Star](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ### Acknowledgements
 
