@@ -245,9 +245,13 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
 
-+ [Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018)
++ [Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018, ICLR 2018)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.08802)
+
++ [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://web3.arxiv.org/abs/2103.16057)
   
 + [Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning](https://arxiv.org/abs/2108.03353) (Aug. 2021)
 
@@ -256,6 +260,10 @@ So then you can easily copy and use this information in your pull requests.
 + [A Data-Driven Approach for Learning to Control Computers](https://arxiv.org/abs/2202.08137) (Feb. 2022)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.08137)
+
++ [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) (Jul. 2022)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01206)
 
 + [Augmenting Autotelic Agents with Large Language Models](https://arxiv.org/pdf/2305.12487) (May. 2023)
 
