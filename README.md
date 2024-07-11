@@ -241,6 +241,14 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
 
 ## Models / Agents
++ [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf) (ICML 2017)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
+
++ [Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration](https://arxiv.org/abs/1802.08802) (Feb. 2018)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.08802)
+  
 + [Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning](https://arxiv.org/abs/2108.03353) (Aug. 2021)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2108.03353)
