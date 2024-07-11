@@ -473,6 +473,10 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
   
++ [OpenUI](https://github.com/wandb/openui) 
+
+  [![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social&label=Star)](https://github.com/wandb/openui)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://openui.fly.dev)
 
 ### Acknowledgements
 
