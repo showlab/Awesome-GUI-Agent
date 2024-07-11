@@ -32,6 +32,10 @@ So then you can easily copy and use this information in your pull requests.
 ⭐ If you find this repository useful, please give it a star.
 
 ## Datasets / Benchmarks
++ [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
+  
 + [A Unified Solution for Structured Web Data Extraction](https://dl.acm.org/doi/10.1145/2009916.2010020) (Jul. 2011, SIGIR 2011)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/2009916.2010020)
@@ -237,10 +241,6 @@ So then you can easily copy and use this information in your pull requests.
   
   [![Star](https://img.shields.io/github/stars/WebVLN/WebVLN.svg?style=social&label=Star)](https://github.com/WebVLN/WebVLN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27878)
-
-+ [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
-
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
 
 ## Models / Agents
 
