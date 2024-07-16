@@ -242,6 +242,13 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/WebVLN/WebVLN.svg?style=social&label=Star)](https://github.com/WebVLN/WebVLN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/27878)
 
++ [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://arxiv.org/abs/2407.10956) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/xlang-ai/Spider2-V.svg?style=social&label=Star)](https://github.com/xlang-ai/Spider2-V)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10956)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://spider2-v.github.io/)
+
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
@@ -466,6 +473,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.03913)
 
++ [AUITestAgent: Automatic Requirements Oriented GUI Function Testing](https://arxiv.org/abs/2407.09018) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/author/auitestagent.svg?style=social&label=Star)](https://github.com/author/auitestagent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09018)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://auitestagent.github.io/)
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
