@@ -475,9 +475,8 @@ So then you can easily copy and use this information in your pull requests.
 
 + [AUITestAgent: Automatic Requirements Oriented GUI Function Testing](https://arxiv.org/abs/2407.09018) (Jul. 2024)
 
-  [![Star](https://img.shields.io/github/stars/author/auitestagent.svg?style=social&label=Star)](https://github.com/author/auitestagent)
+  [![Star](https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social&label=Star)](https://github.com/bz-lab/AUITestAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09018)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://auitestagent.github.io/)
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
