@@ -412,6 +412,9 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10887)
 
++ [Enhancing Mobile "How-to" Queries with Automated Search Results Verification and Reranking](https://arxiv.org/pdf/2404.08860v3) (Apr. 2024, SIGIR 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2404.08860v3)
 
 + [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272)
 
@@ -477,6 +480,7 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social&label=Star)](https://github.com/bz-lab/AUITestAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09018)
+  
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
