@@ -526,6 +526,10 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT.svg?style=social&label=Star)](https://github.com/Significant-Gravitas/Auto-GPT)
 
++ [WebLlama](https://github.com/McGill-NLP/webllama)
+
+  [![Star](https://img.shields.io/github/stars/McGill-NLP/webllama.svg?style=social&label=Star)](https://github.com/McGill-NLP/webllama)
+
 ### Acknowledgements
 
 This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination).
