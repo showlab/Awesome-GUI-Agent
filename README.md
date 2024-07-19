@@ -330,6 +330,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.04716)
 
++ [OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD](https://arxiv.org/pdf/2310.10634) (Oct. 2023)
+
+  [![Star](https://img.shields.io/github/stars/xlang-ai/OpenAgents.svg?style=social&label=Star)](https://github.com/xlang-ai/OpenAgents)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.10634)
+
 + [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562) (Nov. 2023)
 
   [![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)](https://github.com/zzxslp/MM-Navigator)
