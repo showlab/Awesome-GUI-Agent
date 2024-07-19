@@ -529,6 +529,7 @@ So then you can easily copy and use this information in your pull requests.
 + [WebLlama](https://github.com/McGill-NLP/webllama)
 
   [![Star](https://img.shields.io/github/stars/McGill-NLP/webllama.svg?style=social&label=Star)](https://github.com/McGill-NLP/webllama)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://webllama.github.io)
 
 ### Acknowledgements
 
