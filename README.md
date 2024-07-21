@@ -535,6 +535,9 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social&label=Star)](https://github.com/lavague-ai/LaVague)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.lavague.ai/)
 
++ [AGI Computer Control](https://arxiv.org/abs/2402.07939)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.07939)
 
 ### Acknowledgements
 
