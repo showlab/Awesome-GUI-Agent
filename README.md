@@ -531,7 +531,7 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/McGill-NLP/webllama.svg?style=social&label=Star)](https://github.com/McGill-NLP/webllama)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://webllama.github.io)
 
-+ [LaVague: Large Action Model Framework to Develop AI Web Agents](https://arxiv.org/abs/2402.07939)
++ [LaVague: Large Action Model Framework to Develop AI Web Agents](https://github.com/lavague-ai/LaVague)
   [![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social&label=Star)](https://github.com/lavague-ai/LaVague)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.lavague.ai/)
 
