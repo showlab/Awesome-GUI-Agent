@@ -485,6 +485,11 @@ So then you can easily copy and use this information in your pull requests.
 
   [![Star](https://img.shields.io/github/stars/bz-lab/AUITestAgent.svg?style=social&label=Star)](https://github.com/bz-lab/AUITestAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.09018)
+
++ [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032) (Jul. 2024)
+
+  [![Star](https://img.shields.io/github/stars/EmergenceAI/Agent-E.svg?style=social&label=Star)](https://github.com/EmergenceAI/Agent-E)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.13032)
   
 
 ## Projects
