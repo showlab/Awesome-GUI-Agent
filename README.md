@@ -436,6 +436,10 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/IMNearth/CoAT.svg?style=social&label=Star)](https://github.com/IMNearth/CoAT)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.02713)
 
++ [Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning](https://arxiv.org/abs/2405.00516v1) (May 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.00516v1)
+
 + [GUI Action Narrator: Where and When Did That Action Take Place?](https://arxiv.org/abs/2406.13719) (Jun. 2024)
 
   [![Star](https://img.shields.io/github/stars/showlab/GUI-Action-Narrator.svg?style=social&label=Star)](https://github.com/showlab/GUI-Action-Narrator)
@@ -541,8 +545,17 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://webllama.github.io)
 
 + [LaVague: Large Action Model Framework to Develop AI Web Agents](https://github.com/lavague-ai/LaVague)
+  
   [![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social&label=Star)](https://github.com/lavague-ai/LaVague)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.lavague.ai/)
+
++ [OpenAdapt: AI-First Process Automation with Large Multimodal Models](https://github.com/OpenAdaptAI/OpenAdapt)
+
+  [![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social&label=Star)](https://github.com/OpenAdaptAI/OpenAdapt)
+
++ [Surfkit: A toolkit for building and sharing AI agents that operate on devices](https://github.com/agentsea/surfkit)
+
+  [![Star](https://img.shields.io/github/stars/agentsea/surfkit.svg?style=social&label=Star)](https://github.com/agentsea/surfkit)
 
 + [AGI Computer Control](https://github.com/James4Ever0/agi_computer_control)
 
