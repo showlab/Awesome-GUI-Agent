@@ -498,7 +498,12 @@ So then you can easily copy and use this information in your pull requests.
 + [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (Aug. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.00203)
-  
+
++ [VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents](https://arxiv.org/abs/2408.06327) (Aug. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/VisualAgentBench.svg?style=social&label=Star)](https://github.com/THUDM/VisualAgentBench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06327)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/THUDM/VisualAgentBench)
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
