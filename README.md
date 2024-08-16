@@ -248,6 +248,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10956)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://spider2-v.github.io/)
 
++ [AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents](https://arxiv.org/abs/2407.17490)
+
+  [![Star](https://img.shields.io/github/stars/YuxiangChai/AMEX-codebase.svg?style=social&label=Star)](https://github.com/YuxiangChai/AMEX-codebase)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17490)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yuxiangchai.github.io/AMEX/)
+
 
 ## Models / Agents
 
