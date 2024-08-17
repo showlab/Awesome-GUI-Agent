@@ -511,6 +511,11 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.06327)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/THUDM/VisualAgentBench)
 
++ [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://web3.arxiv.org/abs/2408.07199v1) (Aug. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://web3.arxiv.org/abs/2408.07199v1)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities)
+
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
 
