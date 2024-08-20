@@ -516,6 +516,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://web3.arxiv.org/abs/2408.07199v1)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.multion.ai/blog/introducing-agent-q-research-breakthrough-for-the-next-generation-of-ai-agents-with-planning-and-self-healing-capabilities)
 
++ [MindSearch: Mimicking Human Minds Elicits Deep AI Searcher](https://arxiv.org/abs/2407.20183) (Jul. 2023)
+
+  [![Star](https://img.shields.io/github/stars/InternLM/MindSearch.svg?style=social&label=Star)](https://github.com/InternLM/MindSearch)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.20183)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mindsearch.netlify.app/)
+
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
 
