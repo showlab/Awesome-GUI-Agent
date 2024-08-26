@@ -581,13 +581,13 @@ So then you can easily copy and use this information in your pull requests.
 
 + [AGI Computer Control](https://github.com/James4Ever0/agi_computer_control)
 
-### Related Repositories
+## Related Repositories
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
 - [Awesome-LLM-based-Web-Agent-and-Tools](https://github.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools)
 - [awesome-ui-agents](https://github.com/opendilab/awesome-ui-agents/)
 - [computer-control-agent-knowledge-base](https://github.com/James4Ever0/computer_control_agent_knowledge_base)
 
-### Acknowledgements
+## Acknowledgements
 
 This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination).
