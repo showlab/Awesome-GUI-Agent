@@ -531,6 +531,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.02544)
 
++ [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) (Sep. 2024)
+
+  [![Star](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social&label=Star)](https://github.com/zorazrw/agent-workflow-memory)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07429)
+
+
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
 
