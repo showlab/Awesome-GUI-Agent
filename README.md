@@ -254,6 +254,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.17490)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yuxiangchai.github.io/AMEX/)
 
++ [Windows Agent Arena](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
+
+  [![Star](https://img.shields.io/github/stars/microsoft/WindowsAgentArena.svg?style=social&label=Star)](https://github.com/microsoft/WindowsAgentArena)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/WindowsAgentArena/)
+  [![PDF](https://img.shields.io/badge/PDF-4285f4.svg)](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
+
 
 ## Models / Agents
 
