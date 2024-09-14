@@ -602,6 +602,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
 + [AGI Computer Control](https://github.com/James4Ever0/agi_computer_control)
 
++ [WebMarker: Mark web pages for use with vision-language models](https://github.com/reidbarber/webmarker)
+  
+  [![Star](https://img.shields.io/github/stars/reidbarber/webmarker.svg?style=social&label=Star)](https://github.com/reidbarber/webmarker)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.webmarkerjs.com/)
+
 ## Related Repositories
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
