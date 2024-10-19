@@ -232,6 +232,10 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12373)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
 
++ [On the Effects of Data Scale on Computer Control Agents](https://arxiv.org/abs/2406.03679) (Jun. 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03679)
+  [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)]([[https://github.com/camel-ai/crab](https://github.com/google-research/google-research)](https://github.com/google-research/google-research/tree/master/android_control)
+  
 + [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
 
   [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)](https://github.com/camel-ai/crab)
