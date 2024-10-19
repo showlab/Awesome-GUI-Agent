@@ -553,7 +553,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social&label=Star)](https://github.com/zorazrw/agent-workflow-memory)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07429)
 
-+ [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understandin] (Sep. 2024)
++ [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understandin](https://arxiv.org/abs/2409.14818) (Sep. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14818)
 
