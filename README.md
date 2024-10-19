@@ -265,7 +265,13 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/WindowsAgentArena/)
   [![PDF](https://img.shields.io/badge/PDF-4285f4.svg)](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
 
++ [Harnessing Webpage UIs for Text-Rich Visual Understanding](https://arxiv.org/abs/2410.13824)
 
+  [![Star](https://img.shields.io/github/stars/neulab/multiui.svg?style=social&label=Star)](https://github.com/neulab/multiui)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://neulab.github.io/MultiUI/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://neulab.github.io/MultiUI/)
+  
+  
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
