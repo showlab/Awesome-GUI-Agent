@@ -232,6 +232,11 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.12373)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.imean.ai/web-canvas)
 
++ [On the Effects of Data Scale on Computer Control Agents](https://arxiv.org/abs/2406.03679) (Jun. 2024)
+
+  [![Star](https://img.shields.io/github/stars/google-research/google-research)](https://github.com/google-research/google-research/tree/master/android_control)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03679)
+
 + [CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents](https://arxiv.org/abs/2407.01511) (Jul. 2024)
 
   [![Star](https://img.shields.io/github/stars/camel-ai/crab.svg?style=social&label=Star)](https://github.com/camel-ai/crab)
@@ -260,7 +265,13 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://microsoft.github.io/WindowsAgentArena/)
   [![PDF](https://img.shields.io/badge/PDF-4285f4.svg)](https://raw.githubusercontent.com/microsoft/WindowsAgentArena/website/static/files/windows_agent_arena.pdf)
 
++ [Harnessing Webpage UIs for Text-Rich Visual Understanding](https://arxiv.org/abs/2410.13824) (Oct, 2024)
 
+  [![Star](https://img.shields.io/github/stars/neulab/multiui.svg?style=social&label=Star)](https://github.com/neulab/multiui)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://neulab.github.io/MultiUI/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://neulab.github.io/MultiUI/)
+  
+  
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
@@ -541,6 +552,15 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![Star](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory.svg?style=social&label=Star)](https://github.com/zorazrw/agent-workflow-memory)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.07429)
+
++ [MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understandin](https://arxiv.org/abs/2409.14818) (Sep. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.14818)
+
++ [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social&label=Star)](https://github.com/simular-ai/Agent-S)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08164)
 
 
 ## Projects
