@@ -562,6 +562,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/simular-ai/Agent-S.svg?style=social&label=Star)](https://github.com/simular-ai/Agent-S)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08164)
 
++ [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OpenDFM/MobA.svg?style=social&label=Star)](https://github.com/OpenDFM/MobA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13757)
+  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OpenDFM/MobA-MobBench)
+
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
