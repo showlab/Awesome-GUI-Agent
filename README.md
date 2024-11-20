@@ -638,6 +638,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/reidbarber/webmarker.svg?style=social&label=Star)](https://github.com/reidbarber/webmarker)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.webmarkerjs.com/)
 
++ [Computer Use Out-of-the-box](https://github.com/showlab/computer_use_ootb)
+
+  [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
+
 ## Related Repositories
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
