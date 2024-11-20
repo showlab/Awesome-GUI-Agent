@@ -581,6 +581,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Website](https://img.shields.io/badge/Website-9cf)](https://osatlas.github.io/)
   [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data)
 
++ [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02391)
+
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
