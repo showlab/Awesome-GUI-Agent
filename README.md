@@ -567,6 +567,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/OpenDFM/MobA.svg?style=social&label=Star)](https://github.com/OpenDFM/MobA)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13757)
   [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/OpenDFM/MobA-MobBench)
+  
++ [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/UGround.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/UGround)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05243)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/UGround/)
 
 
 ## Projects
