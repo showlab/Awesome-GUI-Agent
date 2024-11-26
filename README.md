@@ -592,6 +592,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/asweigart/pyautogui.svg?style=social&label=Star)](https://github.com/asweigart/pyautogui/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pyautogui.readthedocs.io/en/latest/)
 
++ [nut.js](https://nutjs.dev/)
+
+  [![Star](https://img.shields.io/github/stars/nut-tree/nut.js.svg?style=social&label=Star)](https://github.com/nut-tree/nut.js)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nutjs.dev/)
+
 + [GPT-4V-Act: AI agent using GPT-4V(ision) for web UI interaction](https://github.com/ddupont808/GPT-4V-Act)
 
   [![Star](https://img.shields.io/github/stars/ddupont808/GPT-4V-Act.svg?style=social&label=Star)](https://github.com/ddupont808/GPT-4V-Act)
