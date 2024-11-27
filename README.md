@@ -585,6 +585,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02391)
 
++ [ShowUI: One Vision-Language-Action Model for Generalist GUI Agent](https://arxiv.org/abs/2411.17465) (Nov. 2024)
+
+  [![Star](https://img.shields.io/github/stars/showlab/ShowUI.svg?style=social&label=Star)](https://github.com/showlab/ShowUI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17465)
+
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
