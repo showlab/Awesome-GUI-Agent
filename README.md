@@ -447,6 +447,12 @@ So then you can easily copy and use this information in your pull requests.
 + [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15272)
+  
++ [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://arxiv.org/abs/2312.03003) (Dec. 2023, MobiCom 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.03003)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mobile-gpt.github.io/)
+
 
 + [Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study](https://arxiv.org/abs/2403.03186) (Mar. 2024)
 
