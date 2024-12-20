@@ -32,9 +32,7 @@ So then you can easily copy and use this information in your pull requests.
 ⭐ If you find this repository useful, please give it a star.
 
 ---
-
-Quick Navigation: \
-[[Datasets / Benchmarks]](#datasets--benchmarks) [[Models / Agents]](#models--agents) [[Surveys]](#surveys) [[Projects]](#projects) 
+**Quick Navigation**: [[Datasets / Benchmarks]](#datasets--benchmarks) [[Models / Agents]](#models--agents) [[Surveys]](#surveys) [[Projects]](#projects) 
 
 ## Datasets / Benchmarks
 + [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
