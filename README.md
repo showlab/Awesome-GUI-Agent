@@ -31,6 +31,11 @@ So then you can easily copy and use this information in your pull requests.
 
 ⭐ If you find this repository useful, please give it a star.
 
+---
+
+Quick Navigation: \
+[[Datasets / Benchmarks]](#datasets--benchmarks) [[Models / Agents]](#models--agents) [[Surveys]](#surveys) [[Projects]](#projects) 
+
 ## Datasets / Benchmarks
 + [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
 
@@ -577,8 +582,9 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 + [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://arxiv.org/abs/2410.05243) (Oct. 2024)
 
   [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/UGround.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/UGround)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05243)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://osu-nlp-group.github.io/UGround/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.05243)
+
 
 + [OS-ATLAS: A Foundation Action Model For Generalist GUI Agents](https://arxiv.org/pdf/2410.23218) (Oct. 2024)
 
@@ -591,10 +597,44 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02391)
 
++ [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) (Nov. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/AutoGLM.svg?style=social&label=Star)](https://github.com/THUDM/AutoGLM)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.00820)
+
++ [AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations](https://arxiv.org/abs/2411.13451) (Nov. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.13451)
+
 + [ShowUI: One Vision-Language-Action Model for Generalist GUI Agent](https://arxiv.org/abs/2411.17465) (Nov. 2024)
 
   [![Star](https://img.shields.io/github/stars/showlab/ShowUI.svg?style=social&label=Star)](https://github.com/showlab/ShowUI)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17465)
+
++ [Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction](https://arxiv.org/abs/2412.04454) (Dec. 2024)
+
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aguvis-project.github.io/)
+  [![Star](https://img.shields.io/github/stars/xlang-ai/Aguvis.svg?style=social&label=Star)](https://github.com/xlang-ai/aguvis)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.04454)
+
++ [Falcon-UI: Understanding GUI Before Following User Instructions](https://arxiv.org/abs/2412.09362) (Dec. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09362)
+
+## Surveys
++ [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04890)
+
++ [Large Language Model-Brained GUI Agents: A Survey](https://arxiv.org/abs/2411.18279) (Nov. 2024)
+
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vyokky.github.io/LLM-Brained-GUI-Agents-Survey/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.18279)
+
++ [GUI Agents: A Survey](https://arxiv.org/abs/2412.13501) (Dec. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13501)
+
 
 
 ## Projects
@@ -682,6 +722,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 - [Awesome-LLM-based-Web-Agent-and-Tools](https://github.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools)
 - [awesome-ui-agents](https://github.com/opendilab/awesome-ui-agents/)
 - [computer-control-agent-knowledge-base](https://github.com/James4Ever0/computer_control_agent_knowledge_base)
+- [Awesome GUI Agent Paper List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List/)
 
 ## Acknowledgements
 
