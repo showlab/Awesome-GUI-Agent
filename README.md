@@ -676,6 +676,36 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
 
+## Safety
+
++ [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack)
+
+  [![Star](https://img.shields.io/github/stars/ChenWu98/agent-attack.svg?style=social&label=Star)](https://github.com/ChenWu98/agent-attack)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://chenwu.io/attack-agent/)
+
++ [AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents](https://github.com/AI-secure/AdvWeb)
+
+  [![Star](https://img.shields.io/github/stars/AI-secure/AdvWeb.svg?style=social&label=Star)](https://github.com/AI-secure/AdvWeb)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ai-secure.github.io/AdvWeb/)
+
++ [MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control](https://github.com/jylee425/mobilesafetybench)
+
+  [![Star](https://img.shields.io/github/stars/jylee425/mobilesafetybench.svg?style=social&label=Star)](https://github.com/jylee425/mobilesafetybench)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mobilesafetybench.github.io/)
+
++ [EIA: Environmental Injection Attack on Generalist Web Agents for Privacy Leakage](https://github.com/OSU-NLP-Group/EIA_against_webagent)
+
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/EIA_against_webagent.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/EIA_against_webagent)
+
++ [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](https://github.com/OSU-NLP-Group/WebDreamer)
+
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/WebDreamer.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/WebDreamer)
+
++ [Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.org/abs/2408.02544)
+
++ [Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study](https://arxiv.org/html/2407.09295v2)
+
+
 ## Related Repositories
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent)
