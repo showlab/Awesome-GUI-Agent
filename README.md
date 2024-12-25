@@ -629,6 +629,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent.svg?style=social&label=Star)](https://github.com/GAIR-NLP/PC-Agent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17589)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gair-nlp.github.io/PC-Agent/)
+  
++ [Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining](https://arxiv.org/pdf/2412.10342) (Dec. 2024)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10342)
 
 
 ## Surveys
