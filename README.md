@@ -634,6 +634,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10342)
 
++ [Aria-UI: Visual Grounding for GUI Instructions](https://arxiv.org/abs/2412.16256) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/AriaUI/Aria-UI.svg?style=social&label=Star)](https://github.com/AriaUI/Aria-UI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.16256)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ariaui.github.io)
+  [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data)
 
 ## Surveys
 + [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
