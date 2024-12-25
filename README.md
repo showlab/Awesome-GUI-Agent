@@ -273,6 +273,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/neulab/multiui.svg?style=social&label=Star)](https://github.com/neulab/multiui)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://neulab.github.io/MultiUI/)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://neulab.github.io/MultiUI/)
+
++ [GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent](https://arxiv.org/abs/2412.18426) (Dec, 2024)
+
+  [![Star](https://img.shields.io/github/stars/ZJU-ACES-ISE/ChatUITest.svg?style=social&label=Star)](https://github.com/ZJU-ACES-ISE/ChatUITest)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18426)
   
   
 ## Models / Agents
