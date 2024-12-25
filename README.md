@@ -619,6 +619,13 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.09362)
 
++ [PC Agent: While You Sleep, AI Works - A Cognitive Journey into Digital World](https://arxiv.org/abs/2412.17589) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/GAIR-NLP/PC-Agent.svg?style=social&label=Star)](https://github.com/GAIR-NLP/PC-Agent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17589)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gair-nlp.github.io/PC-Agent/)
+
+
 ## Surveys
 + [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
 
