@@ -598,7 +598,9 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
 + [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) (Nov. 2024)
 
+  [![Star](https://img.shields.io/github/stars/SALT-NLP/PopupAttack.svg?style=social&label=Star)](https://github.com/SALT-NLP/PopupAttack)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02391)
+
 
 + [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) (Nov. 2024)
 
