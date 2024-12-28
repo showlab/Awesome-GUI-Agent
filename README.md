@@ -643,6 +643,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ariaui.github.io)
   [![Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Aria-UI/Aria-UI_Data)
 
++ [CogAgent v2](https://github.com/THUDM/CogAgent) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social&label=Star)](https://github.com/THUDM/CogAgent)
+
 ## Surveys
 + [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
 
