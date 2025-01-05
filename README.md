@@ -279,12 +279,6 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/ZJU-ACES-ISE/ChatUITest.svg?style=social&label=Star)](https://github.com/ZJU-ACES-ISE/ChatUITest)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.18426)
 
-+ [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
-
-  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Genesis)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/OS-Genesis-Home/)  
-
 + [A3: Android Agent Arena for Mobile GUI Agents](https://arxiv.org/abs/2501.01149) (Jan. 2025)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.01149)
@@ -663,7 +657,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social&label=Star)](https://github.com/THUDM/CogAgent)
 
-  [OS-Genesis](https://github.com/OS-Copilot/OS-Genesis)(Dec. 2024)
++ [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
 
   [[![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Genesis)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
