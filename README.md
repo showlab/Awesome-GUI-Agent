@@ -663,6 +663,13 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![Star](https://img.shields.io/github/stars/THUDM/CogAgent.svg?style=social&label=Star)](https://github.com/THUDM/CogAgent)
 
+  [OS-Genesis](https://github.com/OS-Copilot/OS-Genesis)(Dec. 2024)
+
+  [[![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Genesis)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/OS-Genesis-Home/)
+  
+
 ## Surveys
 + [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
 
