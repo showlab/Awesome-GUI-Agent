@@ -376,6 +376,12 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/xlang-ai/OpenAgents.svg?style=social&label=Star)](https://github.com/xlang-ai/OpenAgents)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.10634)
 
++ [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) (Oct. 2024)
+
+  [![Star](https://img.shields.io/github/stars/chengyou-jia/AgentStore.svg?style=social&label=Star)](https://github.com/chengyou-jia/AgentStore)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18603)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://chengyou-jia.github.io/AgentStore-Home/)
+
 + [GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation](https://arxiv.org/abs/2311.07562) (Nov. 2023)
 
   [![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)](https://github.com/zzxslp/MM-Navigator)
@@ -659,7 +665,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
 + [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/abs/2412.19723) (Dec. 2024)
 
-  [[![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Genesis)
+  [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Genesis)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/OS-Genesis-Home/)
   
