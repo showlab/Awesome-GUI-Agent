@@ -671,6 +671,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   
 
 ## Surveys
++ [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) (Dec. 2024)
+
+  [![Star](https://img.shields.io/github/stars/OS-Agent-Survey/OS-Agent-Survey.svg?style=social&label=Star)](https://github.com/OS-Agent-Survey/OS-Agent-Survey)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://os-agent-survey.github.io/)
+
 + [GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) (Nov. 2024)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04890)
