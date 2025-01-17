@@ -289,7 +289,13 @@ So then you can easily copy and use this information in your pull requests.
   [![Star](https://img.shields.io/github/stars/likaixin2000/ScreenSpot-Pro-GUI-Grounding.svg?style=social&label=Star)](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-agent.github.io/grounding-leaderboard/)
   [![PDF](https://img.shields.io/badge/Paper-PDF-red)](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf)
-  
+
++ [WebWalker: Benchmarking LLMs in Web Traversal](https://github.com/Alibaba-nlp/WebWalker)
+
+  [![Star](https://img.shields.io/github/stars/Alibaba-nlp/WebWalker.svg?style=social&label=Star)](https://github.com/Alibaba-nlp/WebWalker)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://alibaba-nlp.github.io/WebWalker/)
+  [![PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2501.07572)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
