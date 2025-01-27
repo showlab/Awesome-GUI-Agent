@@ -674,6 +674,16 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis.svg?style=social&label=Star)](https://github.com/OS-Copilot/OS-Genesis)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.19723)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://qiushisun.github.io/OS-Genesis-Home/)
+
++ [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/pdf/2501.04575) (Jan. 2025)
+
+  [![Star](https://img.shields.io/github/stars/Reallm-Labs/InfiGUIAgent.svg?style=social&label=Star)](https://github.com/Reallm-Labs/InfiGUIAgent)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.04575)
+
++ [GUI-Bee : Align GUI Action Grounding to Novel Environments via Autonomous Exploration](https://arxiv.org/pdf/2501.13896) (Jan. 2025)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.13896)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-bee.github.io/)
   
 
 ## Surveys
