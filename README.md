@@ -296,6 +296,11 @@ So then you can easily copy and use this information in your pull requests.
   [![Website](https://img.shields.io/badge/Website-9cf)](https://alibaba-nlp.github.io/WebWalker/)
   [![PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2501.07572)
 
++ [SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation](https://ai-agents-2030.github.io/SPA-Bench/) (ICLR 2025)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15164)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ai-agents-2030.github.io/SPA-Bench/)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
@@ -684,6 +689,23 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.13896)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://gui-bee.github.io/)
+
++ [Lightweight Neural App Control](https://arxiv.org/abs/2410.17883) (ICLR 2025)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17883)
+
++ [DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents](https://arxiv.org/abs/2410.14803) (ICLR 2025)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14803)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ai-agents-2030.github.io/DistRL/)
+
++ [AppVLM: A Lightweight Vision Language Model for Online App Control](https://arxiv.org/abs/2502.06395) (Feb. 2025)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06395)
+
++ [VSC-RL: Advancing Autonomous Vision-Language Agents with Variational Subgoal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2502.07949) (Feb. 2025)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07949)
   
 
 ## Surveys
