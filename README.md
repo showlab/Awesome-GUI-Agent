@@ -303,9 +303,9 @@ So then you can easily copy and use this information in your pull requests.
 
 + [WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](https://arxiv.org/abs/2502.08047) (Feb. 2025)
 
-  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/showlab/WorldGUI)
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/showlab/GUI-Thinker)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/WorldGUI/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
 
 ## Models / Agents
 
@@ -713,11 +713,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07949)
   
-+ [WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](https://arxiv.org/abs/2502.08047) (Feb. 2025)
++ [GUI-Thinker: GUI-Thinker: A Basic yet Comprehensive GUI Agent Developed with Self-Reflection](https://arxiv.org/abs/2502.08047) (Feb. 2025)
 
-  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/showlab/WorldGUI)
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/showlab/GUI-Thinker)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/WorldGUI/)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
 
 ## Surveys
 + [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) (Dec. 2024)
