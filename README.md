@@ -301,6 +301,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15164)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ai-agents-2030.github.io/SPA-Bench/)
 
++ [WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](https://arxiv.org/abs/2502.08047) (Feb. 2025)
+
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/showlab/WorldGUI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/WorldGUI/)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
@@ -707,6 +713,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.07949)
   
++ [WorldGUI: Dynamic Testing for Comprehensive Desktop GUI Automation](https://arxiv.org/abs/2502.08047) (Feb. 2025)
+
+  [![Star](https://img.shields.io/github/stars/showlab/WorldGUI.svg?style=social&label=Star)](https://github.com/showlab/WorldGUI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/WorldGUI/)
 
 ## Surveys
 + [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) (Dec. 2024)
