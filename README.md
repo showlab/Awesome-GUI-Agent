@@ -307,6 +307,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.08047)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/GUI-Thinker/)
 
++ [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805) (Apr. 2025)
+
+  [![Star](https://img.shields.io/github/stars/lgy0404/LearnAct.svg?style=social&label=Star)](https://github.com/lgy0404/LearnAct)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13805)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lgy0404.github.io/LearnAct/)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
