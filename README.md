@@ -745,7 +745,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.13501)
 
++ [LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects](https://arxiv.org/abs/2504.19838) (Apr. 2025)
 
+  [![Star](https://img.shields.io/github/stars/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents.svg?style=social&label=Star)](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19838)
 
 ## Projects
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
