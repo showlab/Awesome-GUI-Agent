@@ -734,6 +734,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.05143)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/datasets/wwh0411/FedMABench)
 
++ [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.01391) (Jun., 2025)
+
+  [![Star](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI.svg?style=social&label=Star)](https://github.com/OpenBMB/AgentCPM-GUI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01391)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/OpenBMB/AgentCPM-GUI)
+
 
 ## Surveys
 + [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey) (Dec. 2024)
