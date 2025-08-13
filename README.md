@@ -744,6 +744,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14289)
 
 + [Test‑Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615) (Aug., 2025)
+  
   [![Star](https://img.shields.io/github/stars/zju-real/gui-rcpo.svg?style=social&label=Star)](https://github.com/zju-real/gui-rcpo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05615)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju-real.github.io/gui-rcpo/)
@@ -895,4 +896,5 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 ## Acknowledgements
 
 This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination).
+
 
