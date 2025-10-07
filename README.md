@@ -447,6 +447,7 @@ So then you can easily copy and use this information in your pull requests.
 
 + [Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception](http://arxiv.org/abs/2401.16158) (Jan. 2024)
 
+  [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2401.16158)
 
 + [Dual-View Visual Contextualization for Web Navigation](https://arxiv.org/abs/2402.04476) (Feb. 2024, CVPR 2024)
@@ -714,6 +715,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/Reallm-Labs/InfiGUIAgent.svg?style=social&label=Star)](https://github.com/Reallm-Labs/InfiGUIAgent)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.04575)
 
++ [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326) (Jan. 2025)
+
+  [![Star](https://img.shields.io/github/stars/bytedance/UI-TARS.svg?style=social&label=Star)](https://github.com/bytedance/UI-TARS)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.12326)
+
 + [GUI-Bee : Align GUI Action Grounding to Novel Environments via Autonomous Exploration](https://arxiv.org/pdf/2501.13896) (Jan. 2025)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.13896)
@@ -770,6 +776,12 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/zju-real/gui-rcpo.svg?style=social&label=Star)](https://github.com/zju-real/gui-rcpo)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.05615)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju-real.github.io/gui-rcpo/)
+
+ + [Mobile-Agent-v3: Fundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144) (Aug. 2025)
+
+   [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.15144)
+   [![GitHub](https://img.shields.io/badge/GitHub%20Repo-MobileAgent--v3-181717?logo=github)](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v3)
 
 
 ## Surveys
