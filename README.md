@@ -876,6 +876,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
 
++ [Openwork](https://github.com/accomplish-ai/openwork)
+
+  [![Star](https://img.shields.io/github/stars/accomplish-ai/openwork.svg?style=social&label=Star)](https://github.com/accomplish-ai/openwork)
+
 ## Safety
 
 + [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack)
