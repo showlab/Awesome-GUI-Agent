@@ -330,6 +330,11 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08972)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ui-nexus.github.io/)
 
++ [MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments](https://arxiv.org/abs/2512.19432) (Dec., 2025)
+
+  [![GitHub](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld.svg?style=social&label=Stars)](https://github.com/Tongyi-MAI/MobileWorld)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.19432)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
@@ -917,5 +922,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 ## Acknowledgements
 
 This template is provided by [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination).
+
+
 
 
