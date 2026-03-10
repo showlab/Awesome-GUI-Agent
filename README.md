@@ -876,6 +876,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
 
++ [Lumen: Vision-first browser agent with self-healing deterministic replay over CDP](https://github.com/omxyz/lumen)
+
+  [![Star](https://img.shields.io/github/stars/omxyz/lumen.svg?style=social&label=Star)](https://github.com/omxyz/lumen)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lumen.omlabs.xyz)
+
 ## Safety
 
 + [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack)
