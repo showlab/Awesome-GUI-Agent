@@ -34,6 +34,7 @@ So then you can easily copy and use this information in your pull requests.
 ---
 **Quick Navigation**: [[Datasets / Benchmarks]](#datasets--benchmarks) [[Models / Agents]](#models--agents) [[Surveys]](#surveys) [[Projects]](#projects)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested multi-modal agent system prompts for Claude Code orchestration. Task registry, quality gates, and automated delegation. MIT licensed.
 ## Datasets / Benchmarks
 + [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
 
