@@ -330,6 +330,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08972)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ui-nexus.github.io/)
 
++ [ClawBench: Benchmarking Web Agents on Live Production Websites](https://arxiv.org/abs/2604.08523) (Apr. 2026)
+
+  [![Star](https://img.shields.io/github/stars/reacher-z/ClawBench.svg?style=social&label=Star)](https://github.com/reacher-z/ClawBench)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.08523)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://claw-bench.com)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
