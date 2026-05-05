@@ -861,6 +861,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
 + [AGI Computer Control](https://github.com/James4Ever0/agi_computer_control)
 
++ [OpenAgent](https://github.com/the-open-agent/openagent)
+
+  [![Star](https://img.shields.io/github/stars/the-open-agent/openagent.svg?style=social&label=Star)](https://github.com/the-open-agent/openagent)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.openagentai.org/)
+
 + [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
 
   [![Star](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter.svg?style=social&label=Star)](https://github.com/OpenInterpreter/open-interpreter)
