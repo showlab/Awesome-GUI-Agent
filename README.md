@@ -35,6 +35,8 @@ So then you can easily copy and use this information in your pull requests.
 **Quick Navigation**: [[Datasets / Benchmarks]](#datasets--benchmarks) [[Models / Agents]](#models--agents) [[Surveys]](#surveys) [[Projects]](#projects)
 
 ## Datasets / Benchmarks
+
++ [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) (May. 2026) — 283 everyday tasks (V1+V2) on live production websites; HTTP-interception + LLM-judge scoring; [code](https://github.com/reacher-z/ClawBench), [live leaderboard](https://claw-bench.com)
 + [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a.html) (Aug. 2017, ICML 2017)
 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf)
