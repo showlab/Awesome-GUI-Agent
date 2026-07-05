@@ -876,6 +876,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
 
++ [gui-tool: Zero-dependency cross-platform GUI automation CLI for AI agents](https://github.com/ZachRouan/agent-desktop-interface)
+
+  [![Star](https://img.shields.io/github/stars/ZachRouan/agent-desktop-interface.svg?style=social&label=Star)](https://github.com/ZachRouan/agent-desktop-interface)
+
 ## Safety
 
 + [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack)
