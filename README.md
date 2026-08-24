@@ -820,6 +820,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 
   [![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)
 
++ [Optics-Framework: Self-healing GUI automation for mobile, web and Smart TV with an NL agent mode and MCP server](https://github.com/mozarkai/optics-framework)
+
+  [![Star](https://img.shields.io/github/stars/mozarkai/optics-framework.svg?style=social&label=Star)](https://github.com/mozarkai/optics-framework)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mozarkai.github.io/optics-framework/)
+
 + [OpenUI](https://github.com/wandb/openui)
 
   [![Star](https://img.shields.io/github/stars/wandb/openui.svg?style=social&label=Star)](https://github.com/wandb/openui)
