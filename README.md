@@ -851,9 +851,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/lavague-ai/LaVague.svg?style=social&label=Star)](https://github.com/lavague-ai/LaVague)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://docs.lavague.ai/)
 
-+ [OpenAdapt: AI-First Process Automation with Large Multimodal Models](https://github.com/OpenAdaptAI/OpenAdapt)
++ [OpenAdapt: compiles a demonstrated GUI task into a program that reports VERIFIED only if an independent check agrees](https://github.com/OpenAdaptAI/OpenAdapt)
 
   [![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social&label=Star)](https://github.com/OpenAdaptAI/OpenAdapt)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://openadapt.ai)
 
 + [Surfkit: A toolkit for building and sharing AI agents that operate on devices](https://github.com/agentsea/surfkit)
 
