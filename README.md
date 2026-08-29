@@ -798,6 +798,10 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19838)
 
 ## Projects
++ [Agent QA: Natural-language regression testing for web, Android, and iOS applications](https://github.com/vostride/agent-qa)
+
+  [![Star](https://img.shields.io/github/stars/vostride/agent-qa.svg?style=social&label=Star)](https://github.com/vostride/agent-qa)
+
 + [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/index.html)
 
   [![Star](https://img.shields.io/github/stars/asweigart/pyautogui.svg?style=social&label=Star)](https://github.com/asweigart/pyautogui/tree/master)
