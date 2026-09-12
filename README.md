@@ -913,6 +913,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 - [awesome-ui-agents](https://github.com/opendilab/awesome-ui-agents/)
 - [computer-control-agent-knowledge-base](https://github.com/James4Ever0/computer_control_agent_knowledge_base)
 - [Awesome GUI Agent Paper List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List/)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source Git GUI and multi-worktree client with an amazing UI built for parallel agentic workflows, featuring programmatic verifications and review loops
 
 ## Acknowledgements
 
