@@ -330,6 +330,12 @@ So then you can easily copy and use this information in your pull requests.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08972)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ui-nexus.github.io/)
 
++ [Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012) (Feb. 2026)
+
+  [![Star](https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs.svg?style=social&label=Star)](https://github.com/MetaAgentX/NextGen-CAPTCHAs)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.09012)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jiachengliu12345.github.io/NextGen-CAPTCHAs_webpage/)
+
 ## Models / Agents
 
 + [Grounding Open-Domain Instructions to Automate Web Support Tasks](https://web3.arxiv.org/abs/2103.16057) (Mar. 2021)
