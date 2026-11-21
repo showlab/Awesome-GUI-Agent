@@ -913,6 +913,7 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
 - [awesome-ui-agents](https://github.com/opendilab/awesome-ui-agents/)
 - [computer-control-agent-knowledge-base](https://github.com/James4Ever0/computer_control_agent_knowledge_base)
 - [Awesome GUI Agent Paper List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List/)
+- [awesome-agent-phone-use](https://github.com/pichnett/awesome-agent-phone-use)
 
 ## Acknowledgements
 
