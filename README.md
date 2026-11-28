@@ -876,6 +876,11 @@ Multimodal Agents are Susceptible to Environmental Distractions](https://arxiv.o
   [![Star](https://img.shields.io/github/stars/showlab/computer_use_ootb.svg?style=social&label=Star)](https://github.com/showlab/computer_use_ootb/tree/master)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://computer-use-ootb.github.io/)
 
++ [Sol Next: Open-Source System-0 Autonomous Android Agent (Zero-Context-Bloat Skill Compilation & Companion Paper)](https://github.com/chongyangzhang92-hub/Sol-Next)
+
+  [![Star](https://img.shields.io/github/stars/chongyangzhang92-hub/Sol-Next.svg?style=social&label=Star)](https://github.com/chongyangzhang92-hub/Sol-Next)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://chongyangzhang92-hub.github.io/Sol-Next/)
+
 ## Safety
 
 + [Adversarial Attacks on Multimodal Agents](https://github.com/ChenWu98/agent-attack)
